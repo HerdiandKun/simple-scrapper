@@ -1,0 +1,17 @@
+{
+    "name": "herdiandkun/scrapper",
+    "autoload": {
+        "psr-4": {
+            "Herdiandkun\\Scrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "herdian",
+            "email": "herdiandkun@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
